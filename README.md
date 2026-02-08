@@ -34,5 +34,6 @@ ts-node .\src\concurrency-with-batch.ts
 
 ### 3. Concurrency with batch and worker threads
 ```bash
+tsc
 ts-node .\src\threads.ts  
 ```
